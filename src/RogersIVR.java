@@ -7,9 +7,6 @@ import java.util.Scanner;
 //press 1 Connection for internet
 //press 2 Connection for Mobile
 //press 3 Connection for Cable
-
-
-
 public class RogersIVR {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
